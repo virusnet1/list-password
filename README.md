@@ -1,4 +1,4 @@
-# git clone https://github.com/virusnet1/list-password
+# git clone https://github.com/virusnet1/list-password.git
 # cd list-password
 # apt install python
 # python password.py >> virusnet.txt
